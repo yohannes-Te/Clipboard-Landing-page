@@ -7,7 +7,7 @@
 ### Links
 
 - Solution URL: (https://github.com/yohannes-Te/Clipboard-Landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://yohannes-te.github.io/Clipboard-Landing-page/)
 
 ## My process
 
